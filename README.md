@@ -67,6 +67,7 @@
 - [Auto Cache Flush](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 module to automatically flush the cache.
 - [MUP](https://github.com/npoole81/MUP) - A bash menu UI generated from a simple configuration file.  Built for Magento 2, but not limited to it.
 - [Magento 2 PHPStorm File Templates](https://github.com/lfolco/phpstorm-m2-filetemplates) - PHPStorm Magento 2 File Templates.
+- [ExtDN Installer for Magento 2 modules](https://github.com/extdn/installer-m2) - The ExtDN installer brings down the install steps required to just 1.
 
 ### Deployment
 
